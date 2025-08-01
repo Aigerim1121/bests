@@ -1,5 +1,4 @@
 
-
 .container{
     width: 1200px;
     margin: auto;
@@ -58,6 +57,66 @@
   max-width: 1200px;
   margin: auto;
 }
+.section{
+    width: 1200px;
+    height: 1400px;
+    border: 2px solid ;
+    display: flex;
+    border: none;
+}
+.section img {
+    width: 447px;
+    height: 1200px; 
+}
+.number{
+    width: 150px;
+    height: 120px;
+    margin-left: 500px;
+}.number h1{
+    font-size: 40px;
+    margin-top: -30px;
+}
+.number h6{
+    font-size: 15px;
+}
+.box{
+    background-image: url(https://i.pinimg.com/originals/f3/ac/8c/f3ac8c51f5b01cc9ab9e0104233192d5.jpg);
+    width: 576px;
+    height: 470px;
+    margin-left: 80px;
+    overflow: hidden;    
+
+}
+.text{
+    font-size: 38px;
+    display: flex;
+    text-align: center;
+}
+.box span {
+    font-size: 15px;
+     display: flex;
+    text-align: center;
+}
+.box button {
+ width: 150px;
+ height: 50px;
+ border-radius: 10px;
+ border: none;
+ color: white;
+ background-color: black;
+ margin-left: 20px;
+}
+.img{
+    margin-top: -300px;
+    margin-left: 150px;
+}
+.surot{
+    width: 100px;
+    height: 10px;
+    margin-top: -950px;
+    margin-left: 150px;
+}
+
 .footer-logo,
 .footer-nav,
 .footer-social {
